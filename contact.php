@@ -27,24 +27,17 @@
     </div>
     <nav>
       <ul>
-        <li><a href="story.php">About Us</a></li>
+        <li><a href="our-story.php">About Us</a></li>
         <li><a href="#">Shop</a></li>
-        <li><a href="contact.php">Contact Us</a></li>
+        <li><a class="active" href="contact.php">Contact Us</a></li>
       </ul>
     </nav>
   </div>
 </header>
 
-<section id="About Us">
-  <h2>About Us</h3>
-  <p> yaddda yadda </p>
-
-  <h2>Our Mission</h2>
-  <p>yadda yadda</p>
-
-  <h2>Who are we</h2>
-  <p> The youth of the nation</p>
-
+<section id="About Us">1
+  <h2>Email Us</h3>
+  <p> contact@educase.com </p>
 </section>
 <section id="newsletter">
   <div class="container">

@@ -9,7 +9,7 @@
   <meta name="author" content="Zach Chaco">
   <link href="css/prototype.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <title> Educase | Welcome! </title>
 </head>
 
@@ -25,7 +25,7 @@
     </div>
     <nav>
       <ul>
-        <li><a href="story.php">About Us</a></li>
+        <li><a href="our-story.php">About Us</a></li>
         <li><a href="#">Shop</a></li>
         <li><a href="#">Contact Us</a></li>
       </ul>
@@ -68,16 +68,21 @@
 </section>
 
 <footer>
-  <p>Educase, copyright &copy; 2018</p>
-  <ul<a href="#">
-    <img src="assets/twitter_icon.png" alt="Twitter" class="social-media-icon">
-  </a>
-  <a href="#">
-    <img src="assets/instagram_icon.png" alt="Instagram" class="social-media-icon">
-  </a>
-  <a href="#">
-    <img src="assets/facebook_icon.png" alt="Facebook" class="social-media-icon">
-  </a>
+  <div>
+    <p>Educase, copyright &copy; 2018</p>
+  </div>
+  <div class="social_media">
+  <ul>
+    <li><a href="#">
+    <i class="fa fa-twitter" style="font-size:24px"></i>
+  </a></li>
+  <li><a href="#">
+    <i class="fa fa-facebook-official" style="font-size:24px"></i>
+    </a></li>
+  <li><a href="#">
+    <i class="fa fa-instagram" style="font-size:24px"></i>
+  </a></li>
+</div>
 </footer>
 
 <!--Newsletter Popup Container-->

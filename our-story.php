@@ -25,13 +25,15 @@
         <img src="assets/logo.png" alt="Educase" class="logo">
       </a>
     </div>
-    <nav>
-      <ul>
-        <li><a href="story.php">About Us</a></li>
-        <li><a href="#">Shop</a></li>
-        <li><a href="contact.php">Contact Us</a></li>
-      </ul>
-    </nav>
+    <div class="navbox">
+      <nav>
+        <ul>
+          <li><a class="active" href="our-story.php">About Us</a></li>
+          <li><a href="#">Shop</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
   </div>
 </header>
 
